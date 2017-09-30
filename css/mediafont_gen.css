@@ -229,11 +229,13 @@ h6 {  display: block;
     font-weight: bold;}
   
 .header {
-    color: #fff;
+    color: #303646;
     text-align: center;
     background: url(../images/background.jpg) no-repeat top left;
+    background-size: 100%;
     padding: 3rem 6rem;
-    width: auto;}
+    }
+
 .footer {
   color: #ddd;
   font-size: 12px;
